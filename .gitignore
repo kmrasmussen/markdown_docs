@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Do not ignore .gitignore file itself
+!.gitignore
+
+# Do not ignore .md and .txt files
+!*.md
+!*.txt
